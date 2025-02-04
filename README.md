@@ -16,9 +16,6 @@ The **Car Rental Management System** is a web-based platform designed to simplif
 - **Styling**: CSS for UI enhancements
 - **Data Handling**: Structured admin and user tables
 
-## Screenshots
-(Add screenshots here if available)
-
 ## Installation & Setup
 1. Clone the repository:
    ```bash
